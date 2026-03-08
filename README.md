@@ -15,72 +15,102 @@ Backend Developer 💻 | .NET Developer 🚀 | Problem Solver
 🎓 Computer Science Student  
 💻 Backend Developer using **.NET**  
 🧠 Passionate about **Problem Solving**  
-🚀 Always improving my programming skills  
+🚀 Always improving my programming skills
 
 ---
 
-## 🛠 My Skills & Connect
+## 💻 Tech Stack
+
+### 🖥️ Languages
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🚀 Backend & Frameworks
+<p align="center">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+</p>
+
+---
+
+## 🎯 Core Expertise
 
 <p align="center">
+<img src="https://img.shields.io/badge/OOP-FF6F61?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DESIGN%20PATTERNS-6A0572?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SOLID%20PRINCIPLES-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DATA%20STRUCTURES-00BFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ALGORITHMS-FF4500?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-32CD32?style=for-the-badge" />
+</p>
 
-<!-- 💻 Languages -->
-<span style="background-color:#F0DB4F; color:#000; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">Java</span>
-<span style="background-color:#007396; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">C++</span>
-<span style="background-color:#3776AB; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">Python</span>
-<span style="background-color:#F0DB4F; color:#000; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">JavaScript</span>
+---
 
-<br><br>
+## 📊 GitHub Stats
 
-<!-- 🚀 Backend & Frameworks -->
-<span style="background-color:#512BD4; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">.NET</span>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=marim55555&show_icons=true&theme=rose_pine"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marim55555&theme=rose_pine"/>
+</p>
 
-<br><br>
+---
 
-<!-- 🗄️ Databases -->
-<span style="background-color:#4479A1; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">MySQL</span>
-<span style="background-color:#f29111; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">SQL</span>
+## 📈 Activity Graph
 
-<br><br>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marim55555&theme=tokyo-night&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff"/>
+</p>
 
-<!-- 🛠️ Tools & Platforms -->
-<span style="background-color:#F05032; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">Git</span>
-<span style="background-color:#181717; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">GitHub</span>
-<span style="background-color:#0052CC; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">IntelliJ IDEA</span>
-<span style="background-color:#007ACC; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">VS Code</span>
-<span style="background-color:#000000; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">PyCharm</span>
+---
 
-<br><br>
+## 🧊 Contributions
 
-<!-- 🎯 Core Expertise -->
-<span style="background-color:#FF8C00; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">OOP</span>
-<span style="background-color:#FFA500; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">Design Patterns</span>
-<span style="background-color:#FF69B4; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">SOLID Principles</span>
-<span style="background-color:#32CD32; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">Data Structures</span>
-<span style="background-color:#800080; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">Algorithms</span>
-<span style="background-color:#000000; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">System Design</span>
-<span style="background-color:#20B2AA; color:#fff; padding:5px 12px; border-radius:5px; margin:2px; font-weight:bold;">RESTful APIs</span>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marim55555&theme=tokyonight">
+</p>
 
-<br><br>
+---
 
-<!-- 🌐 Connect With Me -->
-<a href="https://www.linkedin.com/in/marym-ali-420718318">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## 🏆 Problem Solving
 
+Codeforces: [mary55](https://codeforces.com/profile/mary55)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
 <a href="https://github.com/marim55555">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://www.facebook.com/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://www.linkedin.com/in/marym-ali-420718318">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://www.youtube.com/">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
 <a href="https://codeforces.com/profile/mary55">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
+</p>
 
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350">
 </p>
